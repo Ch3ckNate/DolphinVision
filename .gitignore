@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model files
+*.pt
+
+# Video files
+*.mp4
+
+# Recordings and frames
+recordings/
+frames/
+
+# IDE
+.idea/
+
+# Logs and temporary files
+*.log
+.DS_Store
